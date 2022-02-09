@@ -4,7 +4,7 @@
     <option name="allowRunningInParallel" value="false" />
     <option name="apexLogLevel" value="DEBUG" />
     <option name="calloutsLogLevel" value="INFO" />
-    <option name="connectionName" value="MySalesforce" />
+    <option name="connectionName" value="SalesforceEpam" />
     <option name="connectionType" value="MDAPI" />
     <option name="contextConfiguration" value="false" />
     <option name="databaseLogLevel" value="INFO" />

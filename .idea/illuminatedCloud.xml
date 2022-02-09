@@ -4,7 +4,7 @@
     <option name="connections">
       <list>
         <IlluminatedCloudConnection>
-          <option name="connectionName" value="MySalesforce" />
+          <option name="connectionName" value="SalesforceEpam" />
           <option name="connectionType" value="MDAPI" />
           <option name="defaultModuleName" value="MySalesforce" />
           <option name="offlineSymbolTablePath" value="$PROJECT_DIR$/IlluminatedCloud/MySalesforce/OfflineSymbolTable.zip" />
